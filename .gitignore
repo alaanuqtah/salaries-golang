@@ -1,0 +1,27 @@
+# Compiled binary files
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Dependency directories
+/vendor/
+/go.sum
+
+# IDE/editor-specific files
+.idea/
+.vscode/
+
+# Environment-specific files
+.env
+
+# System files
+.DS_Store
+Thumbs.db
